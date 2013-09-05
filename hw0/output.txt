@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Sven
+   last: Giesselbach
+email: sag545@nyu.edu
+leaderboard: sag
