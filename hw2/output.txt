@@ -767,11 +767,11 @@ Example:	Bob Haggart	guess=person	gold=person	confidence=0.9465194971323038
 Example:	Boniface II	guess=person	gold=person	confidence=0.9867473479958617
 Example:	Bonnie J. Dunbar	guess=person	gold=person	confidence=0.9992390762628816
 Example:	Boris Delone	guess=person	gold=person	confidence=0.9000562851782286
-Example:	Branwell Bront√´	guess=person	gold=person	confidence=0.9552117034292755
+Example:	Branwell BrontÎ	guess=person	gold=person	confidence=0.9552117034292755
 Example:	Bruce Willis	guess=person	gold=person	confidence=0.9514978154075349
 Example:	Bud Freeman	guess=person	gold=person	confidence=0.6563415421421741
 Example:	Buffon	guess=place	gold=person	confidence=0.8102756521163683
-Example:	C de la Vall√©e Poussin	guess=movie	gold=person	confidence=0.9967442530036202
+Example:	C de la VallÈe Poussin	guess=movie	gold=person	confidence=0.9967442530036202
 Example:	C. Mathewson	guess=person	gold=person	confidence=0.991836004010613
 Example:	Cal Ripken, Jr.	guess=movie	gold=person	confidence=0.9174449738112282
 Example:	Caleb Carr	guess=person	gold=person	confidence=0.4687320840893364
@@ -851,7 +851,7 @@ Example:	Ernie Lombardi	guess=person	gold=person	confidence=0.9912292273461948
 Example:	Erwin Freundlich	guess=movie	gold=person	confidence=0.625824990921598
 Example:	Estee Lauder	guess=person	gold=person	confidence=0.9770407769653486
 Example:	Etienne Pascal	guess=person	gold=person	confidence=0.8601949921242432
-Example:	F. E. Sillanp√§√§	guess=person	gold=person	confidence=0.9998380464308657
+Example:	F. E. Sillanp‰‰	guess=person	gold=person	confidence=0.9998380464308657
 Example:	Florence Sabin	guess=person	gold=person	confidence=0.9977671370981146
 Example:	Francesco Cantelli	guess=person	gold=person	confidence=0.9988105765113886
 Example:	Francis Galton	guess=person	gold=person	confidence=0.9976774220382137
@@ -860,7 +860,7 @@ Example:	Frank McCourt	guess=person	gold=person	confidence=0.9877428673237794
 Example:	Fred W. Haise	guess=person	gold=person	confidence=0.9994219125044559
 Example:	Frederick Soddy	guess=person	gold=person	confidence=0.9998480024811982
 Example:	Friedrich Schottky	guess=person	gold=person	confidence=0.9986181533637734
-Example:	Fr√©d√©ric Bazille	guess=person	gold=person	confidence=0.9852568162092507
+Example:	FrÈdÈric Bazille	guess=person	gold=person	confidence=0.9852568162092507
 Example:	G F Bernhard Riemann	guess=person	gold=person	confidence=0.9897560409569879
 Example:	G N Watson	guess=movie	gold=person	confidence=0.693418359270726
 Example:	G de Roberval Personne	guess=person	gold=person	confidence=0.9098997961224327
@@ -914,9 +914,9 @@ Example:	Horace Smith-Dorrien	guess=person	gold=person	confidence=0.967588912829
 Example:	Howard Martin Temin	guess=person	gold=person	confidence=0.9928218339617999
 Example:	Howard Stern	guess=person	gold=person	confidence=0.8725016915968488
 Example:	Hugh Duffy	guess=person	gold=person	confidence=0.6797584496904108
-Example:	Iivo H√§rk√∂nen	guess=movie	gold=person	confidence=0.4831444496957853
+Example:	Iivo H‰rkˆnen	guess=movie	gold=person	confidence=0.4831444496957853
 Example:	Innocent II	guess=person	gold=person	confidence=0.9931205335691716
-Example:	Ir√©ne√©-Jules Bienaym√©	guess=person	gold=person	confidence=0.7552584770758471
+Example:	IrÈneÈ-Jules BienaymÈ	guess=person	gold=person	confidence=0.7552584770758471
 Example:	Isaac Newton	guess=place	gold=person	confidence=0.9008047928051336
 Example:	Isacc Asimov	guess=person	gold=person	confidence=0.7870210026915412
 Example:	Issai Schur	guess=person	gold=person	confidence=0.8011406456472252
@@ -933,7 +933,7 @@ Example:	Jan van Eyck	guess=person	gold=person	confidence=0.941258514031707
 Example:	Jean Argand	guess=person	gold=person	confidence=0.9895513052118546
 Example:	Jean Duhamel	guess=person	gold=person	confidence=0.998928958911093
 Example:	Jean Richer	guess=person	gold=person	confidence=0.999875712773491
-Example:	Jean-Loup Chr√©tien	guess=person	gold=person	confidence=0.9947832999389744
+Example:	Jean-Loup ChrÈtien	guess=person	gold=person	confidence=0.9947832999389744
 Example:	Jennifer Lopez	guess=person	gold=person	confidence=0.9950799706148998
 Example:	Jesse Douglas	guess=person	gold=person	confidence=0.9967618012690352
 Example:	Jesse Owens	guess=person	gold=person	confidence=0.890260888606893
@@ -977,9 +977,9 @@ Example:	Julia Bowman Robinson	guess=person	gold=person	confidence=0.99994667218
 Example:	Julio Rey Pastor	guess=person	gold=person	confidence=0.9128598446796383
 Example:	Justice Kennedy	guess=person	gold=person	confidence=0.9960102164913252
 Example:	Justice Rehnquist	guess=person	gold=person	confidence=0.5504264893279099
-Example:	J√∂rn Donner	guess=person	gold=person	confidence=0.9559409856865329
+Example:	Jˆrn Donner	guess=person	gold=person	confidence=0.9559409856865329
 Example:	K C Sreedharan Pillai	guess=person	gold=person	confidence=0.6097646000560298
-Example:	K. Alexander M√ºller	guess=person	gold=person	confidence=0.9992328036851612
+Example:	K. Alexander M¸ller	guess=person	gold=person	confidence=0.9992328036851612
 Example:	Karl Rahner	guess=person	gold=person	confidence=0.9998842932730658
 Example:	Kate Kirby	guess=movie	gold=person	confidence=0.4092599964455784
 Example:	Kate Winslet	guess=person	gold=person	confidence=0.7777387324577301
@@ -996,7 +996,7 @@ Example:	Kristie Hendrickson	guess=person	gold=person	confidence=0.9999392011192
 Example:	Ladislaus Bortkiewicz	guess=person	gold=person	confidence=0.9910412511951965
 Example:	Lambert Quetelet	guess=person	gold=person	confidence=0.5968314289139501
 Example:	Larry King	guess=person	gold=person	confidence=0.8517181951952314
-Example:	Lars Olof Nathan S√∂derblom	guess=person	gold=person	confidence=0.9005506916793331
+Example:	Lars Olof Nathan Sˆderblom	guess=person	gold=person	confidence=0.9005506916793331
 Example:	Lawrence Taylor	guess=person	gold=person	confidence=0.99957314876412
 Example:	Lee Remick	guess=movie	gold=person	confidence=0.5599147278005105
 Example:	Lena Horne	guess=person	gold=person	confidence=0.5689746312459513
@@ -1015,8 +1015,8 @@ Example:	Lucy Lawless	guess=person	gold=person	confidence=0.908390848458276
 Example:	Ludwig Quidde	guess=person	gold=person	confidence=0.9245300449969709
 Example:	Luigi Grandi	guess=person	gold=person	confidence=0.9711821912912877
 Example:	Luis Aparicio	guess=person	gold=person	confidence=0.5508601482500294
-Example:	L√°szl√≥ Kalm√°r	guess=person	gold=person	confidence=0.9049310961621528
-Example:	L√©on Victor Auguste Bourgeois	guess=person	gold=person	confidence=0.9993655347793708
+Example:	L·szlÛ Kalm·r	guess=person	gold=person	confidence=0.9049310961621528
+Example:	LÈon Victor Auguste Bourgeois	guess=person	gold=person	confidence=0.9993655347793708
 Example:	Marcel Grossmann	guess=person	gold=person	confidence=0.9968493967045051
 Example:	Margaret Burbridge	guess=person	gold=person	confidence=0.6874658911562134
 Example:	Margaret Mead	guess=person	gold=person	confidence=0.6862798516816794
@@ -1072,14 +1072,14 @@ Example:	Oronce Fine	guess=drug	gold=person	confidence=0.5136195342441567
 Example:	Osborne Reynolds	guess=person	gold=person	confidence=0.5494278250757182
 Example:	Otto Graham	guess=person	gold=person	confidence=0.9947793704977571
 Example:	Otto Manninen	guess=person	gold=person	confidence=0.9842090960078781
-Example:	Otto Sz√°sz	guess=person	gold=person	confidence=0.9224461869787052
+Example:	Otto Sz·sz	guess=person	gold=person	confidence=0.9224461869787052
 Example:	Pamela A. Melroy	guess=person	gold=person	confidence=0.9930733762452361
 Example:	Paolo Ruffini	guess=person	gold=person	confidence=0.9589611272053128
 Example:	Paschal II	guess=movie	gold=person	confidence=0.9706856169224185
 Example:	Patricia Cornwell	guess=person	gold=person	confidence=0.9306575070195846
 Example:	Patricia Ryan Nixon	guess=person	gold=person	confidence=0.999649635977316
 Example:	Paul Barbarin	guess=person	gold=person	confidence=0.9997932004417893
-Example:	Paul C√©zanne	guess=person	gold=person	confidence=0.9988976346985203
+Example:	Paul CÈzanne	guess=person	gold=person	confidence=0.9988976346985203
 Example:	Paul II	guess=person	gold=person	confidence=0.9964235878174683
 Example:	Paul Newman	guess=person	gold=person	confidence=0.9979513837915153
 Example:	Paul Signac	guess=person	gold=person	confidence=0.9995720857302616
@@ -1089,8 +1089,8 @@ Example:	Peter J. K. Wisoff	guess=person	gold=person	confidence=0.99999912373943
 Example:	Petrus Josephus Wilhelmus Debye	guess=person	gold=person	confidence=0.9999999037681475
 Example:	Phidias	guess=drug	gold=person	confidence=0.763055973150165
 Example:	Pierre Gassendi	guess=person	gold=person	confidence=0.9870458190208187
-Example:	Pierre H√©rigone	guess=person	gold=person	confidence=0.99599759619216
-Example:	Pierre L√©on Boutroux	guess=person	gold=person	confidence=0.9951630046651679
+Example:	Pierre HÈrigone	guess=person	gold=person	confidence=0.99599759619216
+Example:	Pierre LÈon Boutroux	guess=person	gold=person	confidence=0.9951630046651679
 Example:	Pierre Wantzel	guess=person	gold=person	confidence=0.9718389529318365
 Example:	Pierre de Maupertuis	guess=person	gold=person	confidence=0.9982230464644057
 Example:	Piers Bohl	guess=person	gold=person	confidence=0.504375957572095
@@ -1105,15 +1105,15 @@ Example:	Ralph Waldo Emerson	guess=person	gold=person	confidence=0.9999689223646
 Example:	Ramlah bint Abi Sufyan	guess=person	gold=person	confidence=0.9857760179748015
 Example:	Ray Kroc	guess=person	gold=person	confidence=0.5392224843430521
 Example:	Ray Schalk	guess=movie	gold=person	confidence=0.8497863855663887
-Example:	Ren√© Thom	guess=person	gold=person	confidence=0.3939460039461928
-Example:	Ren√© de Sluze	guess=movie	gold=person	confidence=0.5372297078271493
+Example:	RenÈ Thom	guess=person	gold=person	confidence=0.3939460039461928
+Example:	RenÈ de Sluze	guess=movie	gold=person	confidence=0.5372297078271493
 Example:	Richard C. Holbrooke	guess=person	gold=person	confidence=0.9999941151643399
 Example:	Richard I	guess=person	gold=person	confidence=0.992514984889712
 Example:	Richard M. Linnehan	guess=person	gold=person	confidence=0.9999969847237811
 Example:	Richard R. Ernst	guess=person	gold=person	confidence=0.9999997591360702
 Example:	Richard W. Riley	guess=person	gold=person	confidence=0.9999850476616672
 Example:	Richard Yates	guess=person	gold=person	confidence=0.998251084778993
-Example:	Robert B√°r√°ny	guess=person	gold=person	confidence=0.955120479409757
+Example:	Robert B·r·ny	guess=person	gold=person	confidence=0.955120479409757
 Example:	Robert Coffin	guess=person	gold=person	confidence=0.9971267056592499
 Example:	Robert D. Cabana	guess=person	gold=person	confidence=0.9999829371448002
 Example:	Robert Duvall	guess=person	gold=person	confidence=0.9992532495476275
@@ -1350,7 +1350,7 @@ Example:	Fritzlar	guess=place	gold=place	confidence=0.3946892559537497
 Example:	Garsington	guess=place	gold=place	confidence=0.9990650793648438
 Example:	Gartocharn	guess=place	gold=place	confidence=0.9311457812892387
 Example:	Gateshead	guess=place	gold=place	confidence=0.945668338745326
-Example:	Gest√©	guess=movie	gold=place	confidence=0.5527113609515378
+Example:	GestÈ	guess=movie	gold=place	confidence=0.5527113609515378
 Example:	Giethoorn	guess=place	gold=place	confidence=0.9467115432204973
 Example:	Girraween	guess=place	gold=place	confidence=0.9631090817173101
 Example:	Gissing	guess=place	gold=place	confidence=0.7241528839745577
@@ -1370,7 +1370,7 @@ Example:	Haberfield	guess=place	gold=place	confidence=0.9987584711421067
 Example:	Haguenau	guess=place	gold=place	confidence=0.9865739661437096
 Example:	Halfweg	guess=place	gold=place	confidence=0.5487123161604236
 Example:	Handforth	guess=place	gold=place	confidence=0.9975828468047706
-Example:	Hannoversch M√ºnden	guess=place	gold=place	confidence=0.6775193882561199
+Example:	Hannoversch M¸nden	guess=place	gold=place	confidence=0.6775193882561199
 Example:	Harlingen	guess=place	gold=place	confidence=0.9964018918898697
 Example:	Harwich	guess=place	gold=place	confidence=0.9859915968181412
 Example:	Havant	guess=movie	gold=place	confidence=0.4571323185628808
@@ -1414,8 +1414,8 @@ Example:	Kirknewton	guess=place	gold=place	confidence=0.9996542443493276
 Example:	Knightswood	guess=place	gold=place	confidence=0.5222268714217299
 Example:	Krefeld	guess=place	gold=place	confidence=0.8375424722566706
 Example:	La Grave	guess=place	gold=place	confidence=0.8017063738872411
-Example:	La Trinit√©-sur-Mer	guess=place	gold=place	confidence=0.8070522229120607
-Example:	Lab√®ge	guess=movie	gold=place	confidence=0.4260920137189361
+Example:	La TrinitÈ-sur-Mer	guess=place	gold=place	confidence=0.8070522229120607
+Example:	LabËge	guess=movie	gold=place	confidence=0.4260920137189361
 Example:	Lahr	guess=person	gold=place	confidence=0.3497829314416708
 Example:	Lancaster	guess=place	gold=place	confidence=0.8986168243901143
 Example:	Lapworth	guess=place	gold=place	confidence=0.9894196687528549
@@ -1466,7 +1466,7 @@ Example:	Mousehole	guess=place	gold=place	confidence=0.48804983053732803
 Example:	Muir of Ord	guess=person	gold=place	confidence=0.5246546453479051
 Example:	Murmansk	guess=place	gold=place	confidence=0.5334320707726253
 Example:	Myanmar	guess=drug	gold=place	confidence=0.4425822072344948
-Example:	M√ºnster	guess=place	gold=place	confidence=0.9780953417357273
+Example:	M¸nster	guess=place	gold=place	confidence=0.9780953417357273
 Example:	Najac	guess=drug	gold=place	confidence=0.6698152689310929
 Example:	Nancy	guess=place	gold=place	confidence=0.5688644345864914
 Example:	Naphill	guess=drug	gold=place	confidence=0.6528089144266134
@@ -1476,7 +1476,7 @@ Example:	New Haw	guess=place	gold=place	confidence=0.7586400602951692
 Example:	New Milton	guess=place	gold=place	confidence=0.9946775731719246
 Example:	Newbridge on Wye	guess=place	gold=place	confidence=0.9974420259947263
 Example:	Newport-on-Tay	guess=place	gold=place	confidence=0.9998744387078318
-Example:	Nieb√ºll	guess=movie	gold=place	confidence=0.6201289083900324
+Example:	Nieb¸ll	guess=movie	gold=place	confidence=0.6201289083900324
 Example:	Nord-Pas-de-Calais	guess=drug	gold=place	confidence=0.9153048201663245
 Example:	North Baddesley	guess=place	gold=place	confidence=0.9987816903888643
 Example:	North Carolina	guess=place	gold=place	confidence=0.912833510485373
@@ -1521,7 +1521,7 @@ Example:	Redfern	guess=place	gold=place	confidence=0.4539706467338172
 Example:	Reigate	guess=place	gold=place	confidence=0.6698457698205991
 Example:	Reims	guess=place	gold=place	confidence=0.5067434102160577
 Example:	Remseck	guess=place	gold=place	confidence=0.46870179518916777
-Example:	Rennes-le-Ch√¢teau	guess=place	gold=place	confidence=0.9999244490692979
+Example:	Rennes-le-Ch‚teau	guess=place	gold=place	confidence=0.9999244490692979
 Example:	Reston	guess=place	gold=place	confidence=0.8972377026915564
 Example:	Reutlingen	guess=place	gold=place	confidence=0.995336928237048
 Example:	Revesby	guess=place	gold=place	confidence=0.940597568856063
@@ -1541,7 +1541,7 @@ Example:	Rylstone	guess=place	gold=place	confidence=0.7034867310468053
 Example:	Saint Vincent and The Grenadines	guess=movie	gold=place	confidence=0.9996773159694344
 Example:	Saint-Denis	guess=place	gold=place	confidence=0.9844079892595793
 Example:	Saint-Gilles-Croix-de-Vie	guess=place	gold=place	confidence=0.9999901455877468
-Example:	Saint-Maur-des-Foss√©s	guess=place	gold=place	confidence=0.9998738681828768
+Example:	Saint-Maur-des-FossÈs	guess=place	gold=place	confidence=0.9998738681828768
 Example:	Saint-Porchaire	guess=place	gold=place	confidence=0.9962048997773207
 Example:	Salzhemmendorf	guess=place	gold=place	confidence=0.7007889940828981
 Example:	Samara	guess=movie	gold=place	confidence=0.481280773986097
@@ -1550,7 +1550,7 @@ Example:	Sausset-Les-Pins	guess=place	gold=place	confidence=0.930764553293772
 Example:	Schleswig-Holstein	guess=place	gold=place	confidence=0.922456144461248
 Example:	Schrobenhausen	guess=place	gold=place	confidence=0.8740612233934449
 Example:	Schwelm	guess=place	gold=place	confidence=0.9724713027086651
-Example:	Sch√∂naich	guess=place	gold=place	confidence=0.6934417914009217
+Example:	Schˆnaich	guess=place	gold=place	confidence=0.6934417914009217
 Example:	Scone	guess=drug	gold=place	confidence=0.5580638604408776
 Example:	Seaham	guess=place	gold=place	confidence=0.9381027336290648
 Example:	Sens	guess=movie	gold=place	confidence=0.7765547170384414
@@ -1575,7 +1575,7 @@ Example:	Strijen	guess=place	gold=place	confidence=0.7757738266366041
 Example:	Suhl	guess=drug	gold=place	confidence=0.5434344959572772
 Example:	Sutton-on-Hull	guess=place	gold=place	confidence=0.9990768030146142
 Example:	Swaffham Bulbeck	guess=person	gold=place	confidence=0.42769906748919484
-Example:	S√©zanne	guess=place	gold=place	confidence=0.9151823592572963
+Example:	SÈzanne	guess=place	gold=place	confidence=0.9151823592572963
 Example:	Tadcaster	guess=place	gold=place	confidence=0.8245990857896368
 Example:	Taiwan	guess=place	gold=place	confidence=0.8199840188895957
 Example:	Talbot Green	guess=place	gold=place	confidence=0.7106484217467979
@@ -1586,7 +1586,7 @@ Example:	Todmorden	guess=place	gold=place	confidence=0.9172479083923201
 Example:	Tollesbury	guess=place	gold=place	confidence=0.9993922890879771
 Example:	Tomsk	guess=place	gold=place	confidence=0.8491207050102528
 Example:	Toowoon Bay	guess=place	gold=place	confidence=0.9942537588512422
-Example:	Travem√ºnde	guess=movie	gold=place	confidence=0.5056873951028241
+Example:	Travem¸nde	guess=movie	gold=place	confidence=0.5056873951028241
 Example:	Trinidad and Tobago	guess=movie	gold=place	confidence=0.9839583042979837
 Example:	Turrella	guess=place	gold=place	confidence=0.9342356814592114
 Example:	Tuvalu	guess=drug	gold=place	confidence=0.9095496866945898
@@ -1677,7 +1677,7 @@ Example:	Almost Blue	guess=movie	gold=movie	confidence=0.8780209977173047
 Example:	Amazon	guess=movie	gold=movie	confidence=0.42875664029459903
 Example:	Amigos X siempre	guess=movie	gold=movie	confidence=0.9722503418829064
 Example:	Amor, curiosidad, Prozac y dudas	guess=movie	gold=movie	confidence=0.9999953837775036
-Example:	Am√©lia	guess=place	gold=movie	confidence=0.5205236011548622
+Example:	AmÈlia	guess=place	gold=movie	confidence=0.5205236011548622
 Example:	An American Tail: The Treasure of Manhattan Island	guess=movie	gold=movie	confidence=0.9999999950763395
 Example:	An Extremely Goofy Movie	guess=movie	gold=movie	confidence=0.9997139308260262
 Example:	An Intimate Friendship	guess=movie	gold=movie	confidence=0.9887265776880578
@@ -1695,15 +1695,15 @@ Example:	Apartment Hunting	guess=movie	gold=movie	confidence=0.5298643245189669
 Example:	Army Men: World War	guess=movie	gold=movie	confidence=0.9997862613926259
 Example:	Arrest & Trial	guess=movie	gold=movie	confidence=0.7285798073545571
 Example:	Arvokkaasti	guess=movie	gold=movie	confidence=0.6212752073401634
-Example:	As Ter√ßas da Bailarina Gorda	guess=movie	gold=movie	confidence=0.8271132530705746
-Example:	Asociaci√≥n Argentina de actores	guess=movie	gold=movie	confidence=0.5729821178518746
+Example:	As TerÁas da Bailarina Gorda	guess=movie	gold=movie	confidence=0.8271132530705746
+Example:	AsociaciÛn Argentina de actores	guess=movie	gold=movie	confidence=0.5729821178518746
 Example:	Ass Lovers	guess=movie	gold=movie	confidence=0.9842444498771523
 Example:	At Any Cost	guess=movie	gold=movie	confidence=0.8688777657400688
 Example:	At the Height of Summer	guess=movie	gold=movie	confidence=0.9999998647001649
-Example:	Atrav√©s da Janela	guess=movie	gold=movie	confidence=0.8405600169631349
+Example:	AtravÈs da Janela	guess=movie	gold=movie	confidence=0.8405600169631349
 Example:	Attack of the Killer Hog	guess=movie	gold=movie	confidence=0.9999700232733997
 Example:	Attention Shoppers	guess=movie	gold=movie	confidence=0.9996003385257839
-Example:	Autsch, du Fr√∂hliche	guess=movie	gold=movie	confidence=0.9989622710193082
+Example:	Autsch, du Frˆhliche	guess=movie	gold=movie	confidence=0.9989622710193082
 Example:	Autumn in New York	guess=movie	gold=movie	confidence=0.9996073700124766
 Example:	Avalanche Run	guess=movie	gold=movie	confidence=0.9890798224491223
 Example:	Aviature	guess=drug	gold=movie	confidence=0.6143236321224328
@@ -1712,7 +1712,7 @@ Example:	Babs	guess=movie	gold=movie	confidence=0.8229613484321503
 Example:	Baby Blues	guess=movie	gold=movie	confidence=0.9613782986110198
 Example:	Backyard Dogs	guess=movie	gold=movie	confidence=0.9268170788648501
 Example:	Bad Actors	guess=movie	gold=movie	confidence=0.9288922079904608
-Example:	Bad Boy - Rennen am √Ñquator	guess=movie	gold=movie	confidence=0.9999459719026904
+Example:	Bad Boy - Rennen am ƒquator	guess=movie	gold=movie	confidence=0.9999459719026904
 Example:	Banditskij Peterburg	guess=place	gold=movie	confidence=0.9894570853618506
 Example:	Banjo-Tooie	guess=place	gold=movie	confidence=0.7974436712873435
 Example:	Banqueroute	guess=movie	gold=movie	confidence=0.685314785021196
@@ -1741,11 +1741,11 @@ Example:	Black Cocksmokers	guess=movie	gold=movie	confidence=0.99910533602572
 Example:	Black Panty Chronicals 9	guess=movie	gold=movie	confidence=0.9998183956454987
 Example:	Black Widow	guess=movie	gold=movie	confidence=0.849563337909108
 Example:	Blister	guess=place	gold=movie	confidence=0.5518272692885653
-Example:	Blondine sucht Million√§r f√ºrs Leben	guess=movie	gold=movie	confidence=0.9999997681435154
+Example:	Blondine sucht Million‰r f¸rs Leben	guess=movie	gold=movie	confidence=0.9999997681435154
 Example:	Blood	guess=movie	gold=movie	confidence=0.6784628270781562
 Example:	Blue August	guess=movie	gold=movie	confidence=0.729082239070514
 Example:	Blue End	guess=movie	gold=movie	confidence=0.8600603512688431
-Example:	Blues mrtv√©ho muze	guess=movie	gold=movie	confidence=0.9999754747990093
+Example:	Blues mrtvÈho muze	guess=movie	gold=movie	confidence=0.9999754747990093
 Example:	Bombshell	guess=place	gold=movie	confidence=0.9520148469771049
 Example:	Bone	guess=movie	gold=movie	confidence=0.5654165482396927
 Example:	Bonhoeffer - Die letzte Stufe	guess=movie	gold=movie	confidence=0.9999994328817712
@@ -1755,13 +1755,13 @@ Example:	Boris e Jeremias	guess=person	gold=movie	confidence=0.5030542554953705
 Example:	Born to Be King	guess=movie	gold=movie	confidence=0.9992172771152801
 Example:	Brat 2	guess=movie	gold=movie	confidence=0.5678072474280585
 Example:	Brokeback Mountain	guess=movie	gold=movie	confidence=0.5626076364157622
-Example:	Bronx-Barb√®s	guess=place	gold=movie	confidence=0.46580674616295753
+Example:	Bronx-BarbËs	guess=place	gold=movie	confidence=0.46580674616295753
 Example:	Brothers	guess=movie	gold=movie	confidence=0.916993770116737
-Example:	Brottsv√•g	guess=place	gold=movie	confidence=0.6383042940718062
+Example:	BrottsvÂg	guess=place	gold=movie	confidence=0.6383042940718062
 Example:	Burnside	guess=place	gold=movie	confidence=0.8925796304348154
 Example:	Buttman's Anal Divas	guess=movie	gold=movie	confidence=0.9999827017707184
 Example:	Buttwoman vs. Buttwoman	guess=movie	gold=movie	confidence=0.5013198383227319
-Example:	Bu√±uel en Hollywood	guess=movie	gold=movie	confidence=0.9979741403381382
+Example:	BuÒuel en Hollywood	guess=movie	gold=movie	confidence=0.9979741403381382
 Example:	By Player	guess=movie	gold=movie	confidence=0.9837403566518415
 Example:	Bzz	guess=movie	gold=movie	confidence=0.5825076713679836
 Example:	Cabecita	guess=movie	gold=movie	confidence=0.6790305768109548
@@ -1797,7 +1797,7 @@ Example:	Clothesline Patch	guess=movie	gold=movie	confidence=0.7586955622304594
 Example:	Cocozza's Way	guess=movie	gold=movie	confidence=0.996570958038771
 Example:	Code Unknown: Incomplete Tales of Several Journeys	guess=movie	gold=movie	confidence=0.9998733799096989
 Example:	Conamara	guess=place	gold=movie	confidence=0.47068525135319633
-Example:	Condenado √† Liberdade	guess=movie	gold=movie	confidence=0.9668835186705586
+Example:	Condenado ‡ Liberdade	guess=movie	gold=movie	confidence=0.9668835186705586
 Example:	Confessions of a Head Hunter	guess=movie	gold=movie	confidence=0.9999867151436199
 Example:	Cool Women	guess=movie	gold=movie	confidence=0.9737521869595849
 Example:	Couch Taters	guess=movie	gold=movie	confidence=0.9642216214184912
@@ -1809,8 +1809,8 @@ Example:	Curiosity & the Cat	guess=movie	gold=movie	confidence=0.999997780159986
 Example:	Cursed	guess=place	gold=movie	confidence=0.5459646346559083
 Example:	Curtain Call	guess=movie	gold=movie	confidence=0.5620425959307095
 Example:	CyberCrime	guess=movie	gold=movie	confidence=0.9480690864310862
-Example:	C√©sar	guess=movie	gold=movie	confidence=0.34197973903539713
-Example:	D-dag - Instrukt√∏rene	guess=movie	gold=movie	confidence=0.9972840280486288
+Example:	CÈsar	guess=movie	gold=movie	confidence=0.34197973903539713
+Example:	D-dag - Instrukt¯rene	guess=movie	gold=movie	confidence=0.9972840280486288
 Example:	D.C.	guess=drug	gold=movie	confidence=0.5841845689758548
 Example:	Da Hip Hop Witch	guess=movie	gold=movie	confidence=0.7100551358228414
 Example:	Dada Sahib	guess=person	gold=movie	confidence=0.6260365656116003
@@ -1846,64 +1846,64 @@ Example:	Demasiado amor	guess=movie	gold=movie	confidence=0.9807023424509075
 Example:	Denton Meets Ian Thorpe	guess=place	gold=movie	confidence=0.48923012283135114
 Example:	Der Boxprinz	guess=movie	gold=movie	confidence=0.7194909411185273
 Example:	Der Kleine Lord - Retter in der Not	guess=movie	gold=movie	confidence=0.9999999282397086
-Example:	Der K√∂nig tanzt	guess=movie	gold=movie	confidence=0.9970800989376838
-Example:	Der Million√§r und die Stripperin	guess=movie	gold=movie	confidence=0.9999983566870135
+Example:	Der Kˆnig tanzt	guess=movie	gold=movie	confidence=0.9970800989376838
+Example:	Der Million‰r und die Stripperin	guess=movie	gold=movie	confidence=0.9999983566870135
 Example:	Det Nya landet	guess=movie	gold=movie	confidence=0.9991737088104784
 Example:	Detector	guess=drug	gold=movie	confidence=0.9022923206935007
 Example:	Deus Jr.	guess=person	gold=movie	confidence=0.7195764332790131
 Example:	Dhai Akshar Prem Ke	guess=person	gold=movie	confidence=0.88664916840023
 Example:	Diary of Lust	guess=movie	gold=movie	confidence=0.9500386733872473
 Example:	Die Biester	guess=movie	gold=movie	confidence=0.9797364787917862
-Example:	Die Blutgr√§fin	guess=movie	gold=movie	confidence=0.9983573462544751
+Example:	Die Blutgr‰fin	guess=movie	gold=movie	confidence=0.9983573462544751
 Example:	Die Einsamkeit der Krokodile	guess=movie	gold=movie	confidence=0.9998042017170672
 Example:	Die Insel der Vergessenen	guess=movie	gold=movie	confidence=0.9998294306725598
 Example:	Die Nacht der Engel	guess=movie	gold=movie	confidence=0.9999011122113685
 Example:	Die Spur meiner Tochter	guess=movie	gold=movie	confidence=0.9999988408928935
-Example:	Die Zehn Gebote der Kreativit√§t	guess=movie	gold=movie	confidence=0.9999813460815176
+Example:	Die Zehn Gebote der Kreativit‰t	guess=movie	gold=movie	confidence=0.9999813460815176
 Example:	Dinner for Two	guess=movie	gold=movie	confidence=0.9999484584380771
-Example:	Distinctii militare rom√¢nesti	guess=movie	gold=movie	confidence=0.9958733553245867
+Example:	Distinctii militare rom‚nesti	guess=movie	gold=movie	confidence=0.9958733553245867
 Example:	Divertimento	guess=movie	gold=movie	confidence=0.9347825899553069
 Example:	Divided We Fall	guess=movie	gold=movie	confidence=0.9884043347037508
 Example:	Dixie Chicks On the Fly	guess=movie	gold=movie	confidence=0.9999613916702194
-Example:	Di√°stole y s√≠stole	guess=movie	gold=movie	confidence=0.9981529778300846
+Example:	Di·stole y sÌstole	guess=movie	gold=movie	confidence=0.9981529778300846
 Example:	Djomeh	guess=movie	gold=movie	confidence=0.8431690528987643
 Example:	Dog Food	guess=movie	gold=movie	confidence=0.6712966113476807
 Example:	Dogme # 16 - Bad Actors	guess=movie	gold=movie	confidence=0.9999364940792004
 Example:	Dogme 4	guess=movie	gold=movie	confidence=0.6948134065437052
 Example:	Dogwatch	guess=place	gold=movie	confidence=0.5930010184221787
 Example:	Dogwoman: Dead Dog Walking	guess=movie	gold=movie	confidence=0.9999972533366105
-Example:	Dol√©	guess=movie	gold=movie	confidence=0.5001855415312001
+Example:	DolÈ	guess=movie	gold=movie	confidence=0.5001855415312001
 Example:	Don't Kill	guess=movie	gold=movie	confidence=0.9867129399210536
 Example:	Donald Duck Goin' Quackers	guess=person	gold=movie	confidence=0.9207412119638795
 Example:	Donna Leon - Vendetta	guess=movie	gold=movie	confidence=0.9558897840259107
 Example:	Down From the Mountain	guess=movie	gold=movie	confidence=0.9987441148662404
 Example:	Down to You	guess=movie	gold=movie	confidence=0.9998676494840311
 Example:	Downpour	guess=place	gold=movie	confidence=0.9212117321149206
-Example:	Dr Lucille - Un r√™ve pour la vie	guess=movie	gold=movie	confidence=0.9999999988108006
+Example:	Dr Lucille - Un rÍve pour la vie	guess=movie	gold=movie	confidence=0.9999999988108006
 Example:	Dr. T & the Women	guess=movie	gold=movie	confidence=0.999982242369088
 Example:	Dragon Ball Z: The Movie - The World's Strongest	guess=movie	gold=movie	confidence=0.9999999999977963
 Example:	Dragonriders of Pern	guess=person	gold=movie	confidence=0.8505084565260514
 Example:	Drainiac!	guess=movie	gold=movie	confidence=0.407118689067104
 Example:	Drawn from Life	guess=movie	gold=movie	confidence=0.99940696484831
 Example:	Driver 2	guess=movie	gold=movie	confidence=0.5979998676179886
-Example:	Dubbel-√•ttan	guess=place	gold=movie	confidence=0.5192213297341419
+Example:	Dubbel-Âttan	guess=place	gold=movie	confidence=0.5192213297341419
 Example:	Dum	guess=drug	gold=movie	confidence=0.47518656225593353
-Example:	D√°-me Luz	guess=movie	gold=movie	confidence=0.6578524378710064
+Example:	D·-me Luz	guess=movie	gold=movie	confidence=0.6578524378710064
 Example:	ECW: Anarchy Rulz	guess=movie	gold=movie	confidence=0.9882063476482938
 Example:	East of West	guess=movie	gold=movie	confidence=0.7453074638325999
 Example:	Eerie Valley Appointment	guess=place	gold=movie	confidence=0.44340709593135585
 Example:	Ein Apartment zum Verlieben	guess=movie	gold=movie	confidence=0.99997326552995
-Example:	Ein Lasterhaftes P√§rchen	guess=movie	gold=movie	confidence=0.9831478130307353
+Example:	Ein Lasterhaftes P‰rchen	guess=movie	gold=movie	confidence=0.9831478130307353
 Example:	Ein Mensch wie Dieter - Golzower	guess=movie	gold=movie	confidence=0.9995157072062835
 Example:	Ein Palast und seine Republik	guess=movie	gold=movie	confidence=0.9999988768173306
 Example:	El Astillero	guess=movie	gold=movie	confidence=0.9611167612140055
 Example:	El Beso que me diste	guess=movie	gold=movie	confidence=0.9999994440047308
 Example:	El Irrigador	guess=movie	gold=movie	confidence=0.5618586720515829
 Example:	Elisas univers	guess=movie	gold=movie	confidence=0.9506987959123003
-Example:	Elixir, √©dition sp√©ciale	guess=movie	gold=movie	confidence=0.9999081047999369
+Example:	Elixir, Èdition spÈciale	guess=movie	gold=movie	confidence=0.9999081047999369
 Example:	Ellas, inocentes o culpables	guess=movie	gold=movie	confidence=0.9998088615636156
 Example:	Enas ki enas	guess=movie	gold=movie	confidence=0.9956636133027974
-Example:	Enfoir√©s en 2000	guess=movie	gold=movie	confidence=0.999945877593668
+Example:	EnfoirÈs en 2000	guess=movie	gold=movie	confidence=0.999945877593668
 Example:	Enter	guess=movie	gold=movie	confidence=0.4520485874398581
 Example:	Entertainment Life	guess=movie	gold=movie	confidence=0.9328988045639145
 Example:	Entscheidung seines Lebens	guess=movie	gold=movie	confidence=0.9999911127097673
@@ -1913,21 +1913,21 @@ Example:	Es geht nicht immer nur um Sex	guess=movie	gold=movie	confidence=0.9999
 Example:	Escaflowne	guess=movie	gold=movie	confidence=0.812748487804411
 Example:	Eugenie Sandler P.I.	guess=person	gold=movie	confidence=0.6500973207030273
 Example:	Euro Angels 25: Budapest Booty Fest	guess=movie	gold=movie	confidence=0.9999995289429112
-Example:	Eva & Adam - fyra f√∂delsedagar och ett fiasko	guess=movie	gold=movie	confidence=0.9999999589526916
+Example:	Eva & Adam - fyra fˆdelsedagar och ett fiasko	guess=movie	gold=movie	confidence=0.9999999589526916
 Example:	Extremism Breaks My Balls	guess=movie	gold=movie	confidence=0.9985355426740913
 Example:	FDS	guess=drug	gold=movie	confidence=0.7804320810474188
-Example:	Faites comme si je n'√©tais pas l√†	guess=movie	gold=movie	confidence=0.9999999963584878
+Example:	Faites comme si je n'Ètais pas l‡	guess=movie	gold=movie	confidence=0.9999999963584878
 Example:	Fallout Tactics: Brotherhood of Steel	guess=movie	gold=movie	confidence=0.9999999823938247
 Example:	Family Pack	guess=movie	gold=movie	confidence=0.9280042772779626
 Example:	Fatboy Slim and Macy Gray: Demons	guess=movie	gold=movie	confidence=0.9997425686425712
-Example:	Fa√ßade	guess=movie	gold=movie	confidence=0.7354384882452302
+Example:	FaÁade	guess=movie	gold=movie	confidence=0.7354384882452302
 Example:	Felix and Lola	guess=movie	gold=movie	confidence=0.9018007157331207
 Example:	Ferien in der Heimat	guess=movie	gold=movie	confidence=0.9999817369508546
-Example:	Ferm√© pour r√©novations	guess=movie	gold=movie	confidence=0.9996236695047372
+Example:	FermÈ pour rÈnovations	guess=movie	gold=movie	confidence=0.9996236695047372
 Example:	Fetish Fanatics #14: Girls Who Were Porn's 1st Superstars	guess=movie	gold=movie	confidence=0.9999999999760129
-Example:	Feu: L'√©nergie	guess=movie	gold=movie	confidence=0.9552377747739719
+Example:	Feu: L'Ènergie	guess=movie	gold=movie	confidence=0.9552377747739719
 Example:	Fifteen Minutes	guess=movie	gold=movie	confidence=0.9925551628658555
-Example:	Finar√ª tirminaet√¥ru	guess=movie	gold=movie	confidence=0.8985154413575415
+Example:	Finar˚ tirminaetÙru	guess=movie	gold=movie	confidence=0.8985154413575415
 Example:	Fire-Eater	guess=drug	gold=movie	confidence=0.6042659668418331
 Example:	Fish	guess=place	gold=movie	confidence=0.5002021864394898
 Example:	Fisimatenten	guess=movie	gold=movie	confidence=0.8928429772511285
@@ -1938,7 +1938,7 @@ Example:	Flight of the Reindeer	guess=movie	gold=movie	confidence=0.999999254955
 Example:	Forensic Files	guess=movie	gold=movie	confidence=0.8552943354257425
 Example:	Forever Yours	guess=movie	gold=movie	confidence=0.994150024317792
 Example:	Forgive and Forget	guess=movie	gold=movie	confidence=0.9642041917967792
-Example:	Fort Boyard - Az Er√∂d	guess=movie	gold=movie	confidence=0.9984783136681501
+Example:	Fort Boyard - Az Erˆd	guess=movie	gold=movie	confidence=0.9984783136681501
 Example:	Forty Years On Coronation Street	guess=movie	gold=movie	confidence=0.5358224458125017
 Example:	Frank Herbert's Dune	guess=person	gold=movie	confidence=0.8581596948850926
 Example:	Frankie Goes to Hollywood: Hard On	guess=movie	gold=movie	confidence=0.9987915485144501
@@ -1958,7 +1958,7 @@ Example:	Gegenseitiges Beobachten: Handy	guess=movie	gold=movie	confidence=0.999
 Example:	George Benson: Absolutely Live	guess=movie	gold=movie	confidence=0.9883476085072406
 Example:	Georgian Grapes	guess=person	gold=movie	confidence=0.9830190216071105
 Example:	Gerry Humphreys: The Loved One	guess=movie	gold=movie	confidence=0.9999779485609135
-Example:	Gespr√§ch im Gebirg	guess=movie	gold=movie	confidence=0.8961742684163879
+Example:	Gespr‰ch im Gebirg	guess=movie	gold=movie	confidence=0.8961742684163879
 Example:	Ghosthunter	guess=movie	gold=movie	confidence=0.8235020440462058
 Example:	Gilligan's Island: The E! True Hollywood Story	guess=movie	gold=movie	confidence=0.9999999996738914
 Example:	Ginostra	guess=drug	gold=movie	confidence=0.40479838093524184
@@ -1974,7 +1974,7 @@ Example:	Granturismo	guess=person	gold=movie	confidence=0.4474078539332635
 Example:	Great Idea	guess=place	gold=movie	confidence=0.8377764134909953
 Example:	Grind Session	guess=movie	gold=movie	confidence=0.9982552847410391
 Example:	Grosse Freiheit - Kleine Freiheit	guess=movie	gold=movie	confidence=0.999685905778936
-Example:	Gro√üstadttr√§ume	guess=place	gold=movie	confidence=0.9036984896295713
+Example:	Groﬂstadttr‰ume	guess=place	gold=movie	confidence=0.9036984896295713
 Example:	Haboleshet Hokeret	guess=movie	gold=movie	confidence=0.7799092782425967
 Example:	Half-Life: Counter-Strike	guess=movie	gold=movie	confidence=0.9999490177381287
 Example:	Halfway There	guess=movie	gold=movie	confidence=0.7676924899735724
@@ -1983,7 +1983,7 @@ Example:	Happy Man	guess=movie	gold=movie	confidence=0.9973120582144563
 Example:	Hard Boiled Egg	guess=person	gold=movie	confidence=0.8327487889005986
 Example:	Harem of Madame Osmane	guess=movie	gold=movie	confidence=0.9784311644918401
 Example:	Harikomi	guess=movie	gold=movie	confidence=0.5973919989455085
-Example:	Hassel - F√∂rg√∂rarna	guess=movie	gold=movie	confidence=0.9013130864314248
+Example:	Hassel - Fˆrgˆrarna	guess=movie	gold=movie	confidence=0.9013130864314248
 Example:	Head Cheerleader Dead Cheerleader	guess=movie	gold=movie	confidence=0.9999833843098946
 Example:	Heimatgeschichten - O Tannenbaum	guess=movie	gold=movie	confidence=0.9991867814691369
 Example:	Helicopter	guess=drug	gold=movie	confidence=0.5890735748107713
@@ -2001,8 +2001,8 @@ Example:	Hotaru	guess=movie	gold=movie	confidence=0.5273764183914466
 Example:	Hotellet	guess=movie	gold=movie	confidence=0.8239500872201334
 Example:	House of Luk	guess=movie	gold=movie	confidence=0.9933133298859408
 Example:	Humbert	guess=place	gold=movie	confidence=0.8102352919433371
-Example:	H√•nden p√• hjertet	guess=movie	gold=movie	confidence=0.9997265459016761
-Example:	H√∂llische Nachbarn - Chaos im Hotel	guess=movie	gold=movie	confidence=0.9999995934640397
+Example:	HÂnden pÂ hjertet	guess=movie	gold=movie	confidence=0.9997265459016761
+Example:	Hˆllische Nachbarn - Chaos im Hotel	guess=movie	gold=movie	confidence=0.9999995934640397
 Example:	I Know I'll See Your Face Again	guess=movie	gold=movie	confidence=0.9999985468360456
 Example:	I Prefer the Sound of the Sea	guess=movie	gold=movie	confidence=0.999999999382205
 Example:	I Spike	guess=movie	gold=movie	confidence=0.9520492898609687
@@ -2015,10 +2015,10 @@ Example:	In Flagrante	guess=movie	gold=movie	confidence=0.9500314104700028
 Example:	In goede aarde: Yesterday	guess=movie	gold=movie	confidence=0.9993364072997547
 Example:	In the Wings	guess=movie	gold=movie	confidence=0.9999713538397732
 Example:	Indifference	guess=place	gold=movie	confidence=0.5277141161997654
-Example:	Ind√©pendance Cha Cha	guess=movie	gold=movie	confidence=0.8954207325760839
+Example:	IndÈpendance Cha Cha	guess=movie	gold=movie	confidence=0.8954207325760839
 Example:	Initiations 2	guess=movie	gold=movie	confidence=0.9979771984941375
 Example:	Innocents	guess=movie	gold=movie	confidence=0.9252497363212062
-Example:	Ins√©parables	guess=movie	gold=movie	confidence=0.6903711140499909
+Example:	InsÈparables	guess=movie	gold=movie	confidence=0.6903711140499909
 Example:	Intimate Portrait: Janis Joplin	guess=movie	gold=movie	confidence=0.9999980373762345
 Example:	Intimate Portrait: Madeline Kahn	guess=movie	gold=movie	confidence=0.9999999780826963
 Example:	Inventario balcanico	guess=movie	gold=movie	confidence=0.8840772813902734
@@ -2031,7 +2031,7 @@ Example:	John Henry	guess=person	gold=movie	confidence=0.9999607072225453
 Example:	John and Yoko's Year of Peace	guess=movie	gold=movie	confidence=0.9999994362578408
 Example:	Joining the Dots	guess=movie	gold=movie	confidence=0.9999942373297855
 Example:	Jojo la frite	guess=movie	gold=movie	confidence=0.9960395345315879
-Example:	Joyeux No√´l, Rachid	guess=movie	gold=movie	confidence=0.9639264413210443
+Example:	Joyeux NoÎl, Rachid	guess=movie	gold=movie	confidence=0.9639264413210443
 Example:	Julien l'apprenti	guess=movie	gold=movie	confidence=0.9945933649713979
 Example:	Jungle	guess=movie	gold=movie	confidence=0.5712411375143135
 Example:	Junk n da Trunk	guess=movie	gold=movie	confidence=0.9909050141488892
@@ -2045,23 +2045,23 @@ Example:	Kingdom of Poet O	guess=movie	gold=movie	confidence=0.9848946257926381
 Example:	Kippour	guess=place	gold=movie	confidence=0.8613879031179655
 Example:	Kiri Maori	guess=person	gold=movie	confidence=0.7064601715451341
 Example:	Kleistoi dromoi	guess=movie	gold=movie	confidence=0.9761357070507013
-Example:	Kom√©di√°sok	guess=movie	gold=movie	confidence=0.3712795320589046
+Example:	KomÈdi·sok	guess=movie	gold=movie	confidence=0.3712795320589046
 Example:	Krajinka	guess=movie	gold=movie	confidence=0.5145189778376114
 Example:	Kunwara	guess=place	gold=movie	confidence=0.5789228669062592
-Example:	Kurosufai√¢	guess=drug	gold=movie	confidence=0.7479094260687259
+Example:	Kurosufai‚	guess=drug	gold=movie	confidence=0.7479094260687259
 Example:	Kurukshetra	guess=place	gold=movie	confidence=0.5759762200002653
 Example:	L'Amour, l'argent, l'amour	guess=movie	gold=movie	confidence=0.9999986494121792
-Example:	L'Attrape-r√™ves	guess=place	gold=movie	confidence=0.6975099275932037
+Example:	L'Attrape-rÍves	guess=place	gold=movie	confidence=0.6975099275932037
 Example:	La Confusion des genres	guess=movie	gold=movie	confidence=0.9997395340429245
 Example:	La Fausse suivante	guess=movie	gold=movie	confidence=0.999728357645626
-Example:	La La√Øque	guess=movie	gold=movie	confidence=0.5282556850988862
+Example:	La LaÔque	guess=movie	gold=movie	confidence=0.5282556850988862
 Example:	La Moderna poesia	guess=movie	gold=movie	confidence=0.9982099313864284
 Example:	La Pomme, la figue et l'amande	guess=movie	gold=movie	confidence=0.999999999914055
 Example:	La Precisione del caso	guess=movie	gold=movie	confidence=0.9996850072666347
 Example:	La Proc	guess=movie	gold=movie	confidence=0.3971219864675092
 Example:	La Revancha	guess=movie	gold=movie	confidence=0.6228059419115001
-Example:	La Traviata √† Paris	guess=movie	gold=movie	confidence=0.9984559026160433
-Example:	La Vache et le pr√©sident	guess=movie	gold=movie	confidence=0.9999998329987996
+Example:	La Traviata ‡ Paris	guess=movie	gold=movie	confidence=0.9984559026160433
+Example:	La Vache et le prÈsident	guess=movie	gold=movie	confidence=0.9999998329987996
 Example:	La Villa	guess=place	gold=movie	confidence=0.8751484886204525
 Example:	La bloc oamenii mor dupa muzica	guess=movie	gold=movie	confidence=0.9999998322308473
 Example:	Lafanmi Selavi	guess=person	gold=movie	confidence=0.8883455381659573
@@ -2080,17 +2080,17 @@ Example:	Le Harem de Mme Osmane	guess=movie	gold=movie	confidence=0.837040933204
 Example:	Le Larbin	guess=drug	gold=movie	confidence=0.5999175177879157
 Example:	Le Pont du trieur	guess=movie	gold=movie	confidence=0.9944569267310635
 Example:	Le Secret	guess=movie	gold=movie	confidence=0.9932873100285949
-Example:	Le V√©lo de Ghislain Lambert	guess=movie	gold=movie	confidence=0.7571919877192923
+Example:	Le VÈlo de Ghislain Lambert	guess=movie	gold=movie	confidence=0.7571919877192923
 Example:	Leg Up	guess=movie	gold=movie	confidence=0.822181844100514
 Example:	Legacy of a Kidnapping: Lindbergh and the Triumph of the Tabloids	guess=movie	gold=movie	confidence=0.9999999999999979
 Example:	Les Autres filles	guess=movie	gold=movie	confidence=0.9872740783438821
 Example:	Les Belles histoires des Pays-d'en-Haut	guess=movie	gold=movie	confidence=0.9985783089645215
 Example:	Les Portes de la gloire	guess=movie	gold=movie	confidence=0.9957346548599438
-Example:	Les Soeurs Lumi√®re	guess=movie	gold=movie	confidence=0.9081696269246118
-Example:	Les Yeux ferm√©s	guess=movie	gold=movie	confidence=0.9282704754863852
+Example:	Les Soeurs LumiËre	guess=movie	gold=movie	confidence=0.9081696269246118
+Example:	Les Yeux fermÈs	guess=movie	gold=movie	confidence=0.9282704754863852
 Example:	Lewd Conduct 9	guess=movie	gold=movie	confidence=0.9179460003546531
 Example:	Leyendas de fuego	guess=movie	gold=movie	confidence=0.983002138709839
-Example:	Le√ßons de t√©n√®bres	guess=movie	gold=movie	confidence=0.9976729996280747
+Example:	LeÁons de tÈnËbres	guess=movie	gold=movie	confidence=0.9976729996280747
 Example:	Lian zhan chongsheng	guess=movie	gold=movie	confidence=0.9804832239285953
 Example:	LiebesLuder	guess=movie	gold=movie	confidence=0.7883988712673132
 Example:	Lies... In Love	guess=movie	gold=movie	confidence=0.9999312909673226
@@ -2109,7 +2109,7 @@ Example:	Lucky 13	guess=movie	gold=movie	confidence=0.9460218343753075
 Example:	Luftpiraten - 113 Passagiere in Todesangst	guess=movie	gold=movie	confidence=0.9999996603812586
 Example:	Luna salvaje	guess=movie	gold=movie	confidence=0.9949030119732825
 Example:	Luz	guess=movie	gold=movie	confidence=0.41613102627627196
-Example:	L√°zaro de Tormes	guess=movie	gold=movie	confidence=0.802790721214183
+Example:	L·zaro de Tormes	guess=movie	gold=movie	confidence=0.802790721214183
 Example:	M. zkt. vr.	guess=person	gold=movie	confidence=0.4661467742432422
 Example:	Mabrouk Again	guess=movie	gold=movie	confidence=0.8639397642411702
 Example:	Maestrale	guess=place	gold=movie	confidence=0.445693502688741
@@ -2123,10 +2123,10 @@ Example:	Masked Rider Kuuga	guess=person	gold=movie	confidence=0.507850044114136
 Example:	Mayhem	guess=place	gold=movie	confidence=0.7196600646861915
 Example:	Me Jane	guess=movie	gold=movie	confidence=0.9766228864149549
 Example:	Mega Man X5	guess=movie	gold=movie	confidence=0.9017379268415037
-Example:	Mein Leben geh√∂rt mir	guess=movie	gold=movie	confidence=0.9999970010802398
+Example:	Mein Leben gehˆrt mir	guess=movie	gold=movie	confidence=0.9999970010802398
 Example:	Men of Honor	guess=movie	gold=movie	confidence=0.9574318691883613
 Example:	Menunggu pelangi	guess=movie	gold=movie	confidence=0.9553528544303711
-Example:	Meseaut√≥	guess=movie	gold=movie	confidence=0.48536109404927347
+Example:	MeseautÛ	guess=movie	gold=movie	confidence=0.48536109404927347
 Example:	Mexico City	guess=movie	gold=movie	confidence=0.4413614667997457
 Example:	Mi amigo	guess=movie	gold=movie	confidence=0.9897791618010956
 Example:	Milch und Honig aus Rotfront	guess=movie	gold=movie	confidence=0.9851782218132613
@@ -2172,7 +2172,7 @@ Example:	Nova: Lost on Everest	guess=movie	gold=movie	confidence=0.9999008008806
 Example:	Now or Never	guess=movie	gold=movie	confidence=0.99857676262443
 Example:	Numero Bruno	guess=person	gold=movie	confidence=0.8077835054446667
 Example:	Nutty Professor II: The Klumps	guess=movie	gold=movie	confidence=0.9999910353124492
-Example:	N√•r m√∏rket er forbi	guess=movie	gold=movie	confidence=0.9999304647684019
+Example:	NÂr m¯rket er forbi	guess=movie	gold=movie	confidence=0.9999304647684019
 Example:	O Delfim	guess=drug	gold=movie	confidence=0.46612511450720034
 Example:	O Fantasma	guess=movie	gold=movie	confidence=0.9686414335878344
 Example:	O Fato	guess=movie	gold=movie	confidence=0.9678067456374086
@@ -2180,7 +2180,7 @@ Example:	O Sonho de Rose - 10 Anos Depois	guess=movie	gold=movie	confidence=0.99
 Example:	Obra maestra	guess=movie	gold=movie	confidence=0.9882522166044542
 Example:	Occidente	guess=movie	gold=movie	confidence=0.9026284623886573
 Example:	Oliver i Olivera	guess=movie	gold=movie	confidence=0.9793751400149567
-Example:	Ol√©!	guess=movie	gold=movie	confidence=0.8801236495447755
+Example:	OlÈ!	guess=movie	gold=movie	confidence=0.8801236495447755
 Example:	On Grandma	guess=movie	gold=movie	confidence=0.6233526424921267
 Example:	On the Road	guess=movie	gold=movie	confidence=0.9999807209241279
 Example:	Only Living Boy in NY	guess=movie	gold=movie	confidence=0.9999712521482957
@@ -2188,16 +2188,16 @@ Example:	Open Return	guess=movie	gold=movie	confidence=0.7272049209949114
 Example:	Open Wide and Say Ahh! 6	guess=movie	gold=movie	confidence=0.9996713656231037
 Example:	Opening the Tombs of the Golden Mummies: Live	guess=movie	gold=movie	confidence=0.9999999999940703
 Example:	Ordeals of Love on the Great Lakes	guess=movie	gold=movie	confidence=0.9999999711400978
-Example:	Orgelkonspirat√∂rerna	guess=movie	gold=movie	confidence=0.9564801785359724
+Example:	Orgelkonspiratˆrerna	guess=movie	gold=movie	confidence=0.9564801785359724
 Example:	Orientations: Chris Doyle - Stirred But Not Shaken	guess=movie	gold=movie	confidence=0.999997790884506
 Example:	Os Acrobatas da Pedra Rolada	guess=movie	gold=movie	confidence=0.9415019372180548
-Example:	Os Tr√™s Zuretas	guess=movie	gold=movie	confidence=0.8493791039324661
+Example:	Os TrÍs Zuretas	guess=movie	gold=movie	confidence=0.8493791039324661
 Example:	Osobennosti natsionalnoj okhoty v zimnij period	guess=movie	gold=movie	confidence=0.9999990013375362
 Example:	Other Girls	guess=movie	gold=movie	confidence=0.920154748046358
 Example:	Our Journey	guess=place	gold=movie	confidence=0.6765078474111956
 Example:	Our Song	guess=movie	gold=movie	confidence=0.9884469846416053
 Example:	Our Years	guess=movie	gold=movie	confidence=0.9530526501781177
-Example:	Ouvri√®res du monde	guess=movie	gold=movie	confidence=0.9793286521253424
+Example:	OuvriËres du monde	guess=movie	gold=movie	confidence=0.9793286521253424
 Example:	Pajama Party	guess=movie	gold=movie	confidence=0.9633681488066471
 Example:	Palavra e Utopia	guess=movie	gold=movie	confidence=0.9969924889941503
 Example:	Pandaemonium	guess=person	gold=movie	confidence=0.39654984256359593
@@ -2207,8 +2207,8 @@ Example:	Peepers	guess=place	gold=movie	confidence=0.5381942232301808
 Example:	Peroxide Passion	guess=movie	gold=movie	confidence=0.8403860898858546
 Example:	Persian Series #6	guess=movie	gold=movie	confidence=0.9968452426804871
 Example:	Persian Series #7	guess=movie	gold=movie	confidence=0.996655652783144
-Example:	Pes√§rikko	guess=movie	gold=movie	confidence=0.6428611698830712
-Example:	Petite ch√©rie	guess=movie	gold=movie	confidence=0.9261173338060938
+Example:	Pes‰rikko	guess=movie	gold=movie	confidence=0.6428611698830712
+Example:	Petite chÈrie	guess=movie	gold=movie	confidence=0.9261173338060938
 Example:	Pettson och Findus - Kattonauten	guess=movie	gold=movie	confidence=0.9689936785058622
 Example:	Phones	guess=movie	gold=movie	confidence=0.6654969546397553
 Example:	Pieni pyhiinvaellus	guess=movie	gold=movie	confidence=0.786541245262482
@@ -2216,13 +2216,13 @@ Example:	Plain Love III	guess=movie	gold=movie	confidence=0.9549551551051436
 Example:	Plaits	guess=movie	gold=movie	confidence=0.7120249378976536
 Example:	Plastic Castles	guess=movie	gold=movie	confidence=0.6319794069470255
 Example:	Plugged In	guess=movie	gold=movie	confidence=0.7088614538446625
-Example:	Pok√©mon: The Movie 2000	guess=movie	gold=movie	confidence=0.9999999999980731
-Example:	Pok√©mon: Vol. 18: Water Blast	guess=movie	gold=movie	confidence=0.9999999593011628
+Example:	PokÈmon: The Movie 2000	guess=movie	gold=movie	confidence=0.9999999999980731
+Example:	PokÈmon: Vol. 18: Water Blast	guess=movie	gold=movie	confidence=0.9999999593011628
 Example:	Polizeiruf 110 - Bruderliebe	guess=movie	gold=movie	confidence=0.9999999953089694
 Example:	Polizeiruf 110 - La Paloma	guess=movie	gold=movie	confidence=0.9999999375618643
 Example:	Pop Beat Killers	guess=movie	gold=movie	confidence=0.9964474289811983
 Example:	Poppuguruupu Koroshiya	guess=movie	gold=movie	confidence=0.8945514322364753
-Example:	Posledn√° vecera	guess=movie	gold=movie	confidence=0.9546313544719989
+Example:	Posledn· vecera	guess=movie	gold=movie	confidence=0.9546313544719989
 Example:	Postcards From Paradise Park	guess=movie	gold=movie	confidence=0.9999041475726829
 Example:	Prison Life	guess=movie	gold=movie	confidence=0.9833026138194687
 Example:	Prison of the Dead	guess=movie	gold=movie	confidence=0.9999882846455621
@@ -2232,8 +2232,8 @@ Example:	Proof of Life	guess=movie	gold=movie	confidence=0.9991900933306578
 Example:	Protagonisti, i diritti del '900	guess=movie	gold=movie	confidence=0.999965800899527
 Example:	Public Canings	guess=movie	gold=movie	confidence=0.48989141877541276
 Example:	Putting It Together	guess=movie	gold=movie	confidence=0.9954789957070873
-Example:	P√°ratlan	guess=place	gold=movie	confidence=0.7086575324100658
-Example:	Quand j'√©tais petit	guess=movie	gold=movie	confidence=0.9997967063933064
+Example:	P·ratlan	guess=place	gold=movie	confidence=0.7086575324100658
+Example:	Quand j'Ètais petit	guess=movie	gold=movie	confidence=0.9997967063933064
 Example:	Queens for a Night	guess=movie	gold=movie	confidence=0.9999989254208619
 Example:	Quotation Marks	guess=movie	gold=movie	confidence=0.8768942300454863
 Example:	RLH	guess=drug	gold=movie	confidence=0.5891136844782741
@@ -2282,7 +2282,7 @@ Example:	Sciography	guess=drug	gold=movie	confidence=0.7058109022554111
 Example:	Scrappers	guess=movie	gold=movie	confidence=0.7901629853074893
 Example:	Sehnsucht nach Jack	guess=movie	gold=movie	confidence=0.9997676642370804
 Example:	Sei forte, Maestro	guess=movie	gold=movie	confidence=0.9999812955695372
-Example:	Selvsvings B√•nd p√• livet - livet p√• b√•nd	guess=movie	gold=movie	confidence=0.9999999998654685
+Example:	Selvsvings BÂnd pÂ livet - livet pÂ bÂnd	guess=movie	gold=movie	confidence=0.9999999998654685
 Example:	Seom	guess=movie	gold=movie	confidence=0.7088713876662485
 Example:	Serenades	guess=movie	gold=movie	confidence=0.7672034147509773
 Example:	Seule avec la guerre	guess=movie	gold=movie	confidence=0.9623603045212373
@@ -2300,13 +2300,13 @@ Example:	Shikari	guess=movie	gold=movie	confidence=0.8002862339349488
 Example:	Si fa presto a dire amore...	guess=movie	gold=movie	confidence=0.9999999987868147
 Example:	Sideways	guess=movie	gold=movie	confidence=0.9421089352511681
 Example:	Sidney Poitier, One Bright Light	guess=movie	gold=movie	confidence=0.9319277647932913
-Example:	Siempre te amar√©	guess=movie	gold=movie	confidence=0.9998122570924104
+Example:	Siempre te amarÈ	guess=movie	gold=movie	confidence=0.9998122570924104
 Example:	Sin's Kitchen	guess=movie	gold=movie	confidence=0.9935831897491082
 Example:	Siostry	guess=movie	gold=movie	confidence=0.7274071547736687
 Example:	Skeletons in the Closet	guess=movie	gold=movie	confidence=0.9999988021479296
 Example:	Smoke & Mirrors: The Art and Science of Stunts	guess=movie	gold=movie	confidence=0.9999999999997503
 Example:	Snapped	guess=movie	gold=movie	confidence=0.7995546506742262
-Example:	Solange es M√§nner gibt	guess=movie	gold=movie	confidence=0.9999482575023224
+Example:	Solange es M‰nner gibt	guess=movie	gold=movie	confidence=0.9999482575023224
 Example:	Song of the Sea Otter	guess=movie	gold=movie	confidence=0.9999957342865915
 Example:	Sonntags	guess=movie	gold=movie	confidence=0.7902481136992382
 Example:	South	guess=place	gold=movie	confidence=0.9772604848351246
@@ -2321,7 +2321,7 @@ Example:	Starforce	guess=place	gold=movie	confidence=0.8242978274538384
 Example:	Stars Sing The Beatles	guess=movie	gold=movie	confidence=0.9999965753863554
 Example:	Steps to the Stars	guess=movie	gold=movie	confidence=0.9999997762845904
 Example:	Sting: The Brand New Day Tour - Live from the Universal Amphitheatre	guess=movie	gold=movie	confidence=0.9999999999999751
-Example:	Stj√§rnfall	guess=place	gold=movie	confidence=0.8134879720641579
+Example:	Stj‰rnfall	guess=place	gold=movie	confidence=0.8134879720641579
 Example:	Stopar	guess=drug	gold=movie	confidence=0.38396095871156133
 Example:	Stranger with a Camera	guess=movie	gold=movie	confidence=0.9999956765093555
 Example:	Strangers to Themselves	guess=movie	gold=movie	confidence=0.9997747155900589
@@ -2337,19 +2337,19 @@ Example:	Sweet	guess=movie	gold=movie	confidence=0.6608695339075548
 Example:	Sync	guess=drug	gold=movie	confidence=0.3697675016977741
 Example:	T'en as?	guess=movie	gold=movie	confidence=0.9469989472735579
 Example:	T.R.A.X.	guess=drug	gold=movie	confidence=0.5598519893955037
-Example:	Taivas tiell√§	guess=movie	gold=movie	confidence=0.9572637741653923
+Example:	Taivas tiell‰	guess=movie	gold=movie	confidence=0.9572637741653923
 Example:	Take It to the Limit	guess=movie	gold=movie	confidence=0.9999815900443417
 Example:	Take My Life... Please	guess=movie	gold=movie	confidence=0.9998401199933261
 Example:	Tales of an Island	guess=movie	gold=movie	confidence=0.7607798951813615
 Example:	Tatort - Chaos	guess=movie	gold=movie	confidence=0.9999792997998636
 Example:	Tatort - Mord am Fluss	guess=movie	gold=movie	confidence=0.9999672677736017
-Example:	Tatort - Tod vor Scharh√∂rn	guess=movie	gold=movie	confidence=0.9999990637743992
+Example:	Tatort - Tod vor Scharhˆrn	guess=movie	gold=movie	confidence=0.9999990637743992
 Example:	Team Spirit	guess=drug	gold=movie	confidence=0.5387904164534015
 Example:	Teens Get Real	guess=movie	gold=movie	confidence=0.874547479622129
 Example:	Teletubbies: Nursery Rhymes	guess=movie	gold=movie	confidence=0.9806593867626449
 Example:	Tempting Fate	guess=movie	gold=movie	confidence=0.9551174070867565
 Example:	Tenshi no rakuen	guess=movie	gold=movie	confidence=0.9999471791944788
-Example:	Terra Son√¢mbula	guess=place	gold=movie	confidence=0.643669129975872
+Example:	Terra Son‚mbula	guess=place	gold=movie	confidence=0.643669129975872
 Example:	Terry Eichler: Beyond Duc My	guess=movie	gold=movie	confidence=0.9734213771738728
 Example:	That's Life	guess=movie	gold=movie	confidence=0.9982283860660986
 Example:	The American Astronaut	guess=movie	gold=movie	confidence=0.999330243478533
@@ -2408,7 +2408,7 @@ Example:	The Real Flying Tigers	guess=movie	gold=movie	confidence=0.999987141718
 Example:	The Runaway	guess=movie	gold=movie	confidence=0.9999671341224733
 Example:	The Secret	guess=movie	gold=movie	confidence=0.9999063723531674
 Example:	The Sopornos	guess=movie	gold=movie	confidence=0.9996394036474046
-Example:	The Strange Case of Se√±or Computer	guess=movie	gold=movie	confidence=0.9999473933496955
+Example:	The Strange Case of SeÒor Computer	guess=movie	gold=movie	confidence=0.9999473933496955
 Example:	The Substitute: Failure Is Not an Option	guess=movie	gold=movie	confidence=0.99999999299896
 Example:	The Summer Intern	guess=movie	gold=movie	confidence=0.9998379034549592
 Example:	The Summer of the Kavalcutes	guess=movie	gold=movie	confidence=0.9999999982917319
@@ -2432,8 +2432,8 @@ Example:	Tight-Ass Lowriders	guess=movie	gold=movie	confidence=0.837556683173677
 Example:	Time Gentlemen, Please	guess=movie	gold=movie	confidence=0.9992926622692981
 Example:	Time of our Lives	guess=movie	gold=movie	confidence=0.999988097013331
 Example:	Time to Live	guess=movie	gold=movie	confidence=0.9999943324756634
-Example:	Titkos szeret√∂k	guess=movie	gold=movie	confidence=0.9750078429677039
-Example:	Tmavomoudr√Ω svet	guess=movie	gold=movie	confidence=0.9548243927886578
+Example:	Titkos szeretˆk	guess=movie	gold=movie	confidence=0.9750078429677039
+Example:	Tmavomoudr˝ svet	guess=movie	gold=movie	confidence=0.9548243927886578
 Example:	To the End of the Road	guess=movie	gold=movie	confidence=0.9999999944658041
 Example:	Together	guess=place	gold=movie	confidence=0.39926924877930614
 Example:	Tokyo Raiders	guess=movie	gold=movie	confidence=0.9898130865689311
@@ -2460,8 +2460,8 @@ Example:	Un Colpo al cuore	guess=movie	gold=movie	confidence=0.9907809236180461
 Example:	Un enfant, un secret	guess=movie	gold=movie	confidence=0.9999967733408525
 Example:	Un possible amour	guess=movie	gold=movie	confidence=0.9999628204777405
 Example:	Unauthorized Brady Bunch: The Final Days	guess=movie	gold=movie	confidence=0.9999998707792462
-Example:	Une jeune fille √† la fen√™tre	guess=movie	gold=movie	confidence=0.9999991308380318
-Example:	Une m√®re en col√®re	guess=movie	gold=movie	confidence=0.9999817539847761
+Example:	Une jeune fille ‡ la fenÍtre	guess=movie	gold=movie	confidence=0.9999991308380318
+Example:	Une mËre en colËre	guess=movie	gold=movie	confidence=0.9999817539847761
 Example:	Unreal Ads	guess=movie	gold=movie	confidence=0.9660934976172098
 Example:	Urmel 2: Faule Tricks auf hoher See	guess=movie	gold=movie	confidence=0.999999945692602
 Example:	Uttara	guess=place	gold=movie	confidence=0.680903642730007
@@ -2471,7 +2471,7 @@ Example:	Vamos Chile	guess=movie	gold=movie	confidence=0.49038120587837997
 Example:	Vampires of Sorority Row Part II	guess=movie	gold=movie	confidence=0.9974525956471275
 Example:	Vanishing Point	guess=place	gold=movie	confidence=0.8202268946776782
 Example:	Vendetta	guess=place	gold=movie	confidence=0.5939793392778143
-Example:	Vent de col√®re	guess=movie	gold=movie	confidence=0.9585773408118076
+Example:	Vent de colËre	guess=movie	gold=movie	confidence=0.9585773408118076
 Example:	Verboden te zuchten	guess=movie	gold=movie	confidence=0.9999677648260175
 Example:	Victor	guess=person	gold=movie	confidence=0.5402512839791845
 Example:	Vies	guess=movie	gold=movie	confidence=0.7328319603320766
@@ -2504,7 +2504,7 @@ Example:	Xian's Finest	guess=movie	gold=movie	confidence=0.9894684433807575
 Example:	Y decirte alguna estupidez, por ejemplo, te quiero	guess=movie	gold=movie	confidence=0.9999999999999739
 Example:	Yes, Dear	guess=movie	gold=movie	confidence=0.9962345235970815
 Example:	Yi jian zhong qing	guess=movie	gold=movie	confidence=0.9998107387263063
-Example:	Yo soy as√≠	guess=movie	gold=movie	confidence=0.9981006300463063
+Example:	Yo soy asÌ	guess=movie	gold=movie	confidence=0.9981006300463063
 Example:	Yocavil	guess=drug	gold=movie	confidence=0.9517531340143155
 Example:	You Made It	guess=movie	gold=movie	confidence=0.9962173594067012
 Example:	You'll Do	guess=movie	gold=movie	confidence=0.9875607515918612
@@ -2512,10 +2512,10 @@ Example:	Yung wong jik chin	guess=movie	gold=movie	confidence=0.9998059508310744
 Example:	Zebralla	guess=place	gold=movie	confidence=0.7404113223556579
 Example:	Zir-e poost-e shahr	guess=movie	gold=movie	confidence=0.9949343906323244
 Example:	Zwei vom Blitz getroffen	guess=movie	gold=movie	confidence=0.9989859522370096
-Example:	¬°Ja me maaten..!	guess=movie	gold=movie	confidence=0.999999727388926
-Example:	√Ä ma soeur!	guess=movie	gold=movie	confidence=0.9999877162429315
-Example:	√âpouse-moi	guess=movie	gold=movie	confidence=0.7957250103512892
-Example:	√¨√Å√é√Ñ√ô√õ √ì√Ö√í√Ö√Ç√í√â√ì√î√ô√ä	guess=movie	gold=movie	confidence=0.6387955835459947
+Example:	°Ja me maaten..!	guess=movie	gold=movie	confidence=0.999999727388926
+Example:	¿ ma soeur!	guess=movie	gold=movie	confidence=0.9999877162429315
+Example:	…pouse-moi	guess=movie	gold=movie	confidence=0.7957250103512892
+Example:	Ï¡ŒƒŸ€ ”≈“≈¬“…”‘Ÿ 	guess=movie	gold=movie	confidence=0.6387955835459947
 Example:	AEGON N.V.	guess=company	gold=company	confidence=0.5184433014055655
 Example:	ALZA Corporation	guess=company	gold=company	confidence=0.9999815746155737
 Example:	AMPCO Pittsburgh Corporation	guess=company	gold=company	confidence=0.9993363942687458
@@ -2586,7 +2586,7 @@ Example:	CompX International Inc.	guess=company	gold=company	confidence=0.999999
 Example:	Computer Task Group, Incorporated	guess=company	gold=company	confidence=0.9999999963921335
 Example:	Consolidated Edison Inc.	guess=company	gold=company	confidence=0.9999868244424327
 Example:	Cooper Cameron Corporation.	guess=company	gold=company	confidence=0.9999993821841503
-Example:	Copene-Petroqu√≠mica do Nordeste	guess=company	gold=company	confidence=0.8927615779886691
+Example:	Copene-PetroquÌmica do Nordeste	guess=company	gold=company	confidence=0.8927615779886691
 Example:	Cornell Companies Inc.	guess=company	gold=company	confidence=0.9999999981053185
 Example:	Cornerstone Propane Partnership L.P.	guess=company	gold=company	confidence=0.9999999857392067
 Example:	Correctional Properties Trust.	guess=company	gold=company	confidence=0.9999999948644044
@@ -2601,7 +2601,7 @@ Example:	Detroit Edison	guess=movie	gold=company	confidence=0.4089956381055275
 Example:	Developers Diversified Realty Corporation.	guess=company	gold=company	confidence=0.9999999999023615
 Example:	Devry, Inc.	guess=company	gold=company	confidence=0.9967531083601497
 Example:	Dillards Cap Tr I	guess=company	gold=company	confidence=0.9999986431037257
-Example:	Distribuci√≥n y Servicio (D&S)	guess=movie	gold=company	confidence=0.726087283041774
+Example:	DistribuciÛn y Servicio (D&S)	guess=movie	gold=company	confidence=0.726087283041774
 Example:	Dollar Thrifty Automotive Group Inc.	guess=company	gold=company	confidence=0.9999999424968407
 Example:	Downey Financial Corporation.	guess=company	gold=company	confidence=0.9999999600561412
 Example:	Dril-Quip, Inc.	guess=company	gold=company	confidence=0.9687269421164272
@@ -2663,7 +2663,7 @@ Example:	Honeywell International, Inc.	guess=company	gold=company	confidence=0.9
 Example:	Household Cap Tr I	guess=company	gold=company	confidence=0.9999952868233715
 Example:	IBP Inc.	guess=company	gold=company	confidence=0.9997220591520054
 Example:	Indiana Energy Inc.	guess=company	gold=company	confidence=0.999999938786474
-Example:	Internacional de Cer√°mica S.A.	guess=company	gold=company	confidence=0.9999879157454968
+Example:	Internacional de Cer·mica S.A.	guess=company	gold=company	confidence=0.9999879157454968
 Example:	J.P. Morgan Chase & Co.	guess=company	gold=company	confidence=0.9999989758598092
 Example:	Jack in the Box Inc.	guess=movie	gold=company	confidence=0.9330316131967732
 Example:	John Hancock Patriot Global Dividend Fund	guess=company	gold=company	confidence=0.9999644786673345
@@ -2791,8 +2791,8 @@ Example:	Swisscom Ag	guess=movie	gold=company	confidence=0.5825700995971481
 Example:	Talbots Inc.	guess=company	gold=company	confidence=0.9964772023731002
 Example:	Tefron Ltd.	guess=company	gold=company	confidence=0.9998738566605276
 Example:	Telebras HOLDRs	guess=person	gold=company	confidence=0.637386148343251
-Example:	Telef√≥nica del Per√∫ SA	guess=company	gold=company	confidence=0.999636914655988
-Example:	Telemig Celular Participa√ß√µes S.A.	guess=company	gold=company	confidence=0.9999994258812906
+Example:	TelefÛnica del Per˙ SA	guess=company	gold=company	confidence=0.999636914655988
+Example:	Telemig Celular ParticipaÁıes S.A.	guess=company	gold=company	confidence=0.9999994258812906
 Example:	Templeton Emerging Markets Appreciation Fund, Inc.	guess=company	gold=company	confidence=0.9999998421873473
 Example:	Tennessee Valley Auth	guess=company	gold=company	confidence=0.7429102301630305
 Example:	Terra Industries Inc.	guess=company	gold=company	confidence=0.9999994350610787
@@ -2821,14 +2821,14 @@ Example:	Twin Disc Inc.	guess=company	gold=company	confidence=0.9990350785314649
 Example:	UAL Corporation.	guess=company	gold=company	confidence=0.9999995981090607
 Example:	UNOCAL CORP	guess=company	gold=company	confidence=0.9992705010518234
 Example:	US Airways Group Inc	guess=company	gold=company	confidence=0.9999999915409548
-Example:	Un Banco M√°s de Todos	guess=company	gold=company	confidence=0.9469428136847033
+Example:	Un Banco M·s de Todos	guess=company	gold=company	confidence=0.9469428136847033
 Example:	UniSource Energy Corporation	guess=company	gold=company	confidence=0.9999965004863368
 Example:	Unigraphics Solutions Inc.	guess=company	gold=company	confidence=0.9725060143930805
 Example:	Unisys Corp	guess=company	gold=company	confidence=0.9999204503163855
 Example:	United Parcel Service, Inc.	guess=company	gold=company	confidence=0.9999999033725995
 Example:	United Park City Mines Co..	guess=company	gold=company	confidence=0.999996803236621
 Example:	United Technologies Corporation.	guess=company	gold=company	confidence=0.999999999068065
-Example:	Uni√£o de Bancos Brasileiros S.A (Unibanco)	guess=company	gold=company	confidence=0.9999782784087347
+Example:	Uni„o de Bancos Brasileiros S.A (Unibanco)	guess=company	gold=company	confidence=0.9999782784087347
 Example:	UnumProvident Corporation	guess=company	gold=company	confidence=0.9999568421737672
 Example:	Urstadt Biddle Properties Inc.	guess=company	gold=company	confidence=0.9999995285097205
 Example:	Usx Marathon Lg-Tm	guess=movie	gold=company	confidence=0.7000840817186507
