@@ -329,7 +329,7 @@ about	IN
 every	DT
 sin	NN
 an	DT
-online	JJ
+online	NN
 marketer	NN
 could	MD
 commit	VB
@@ -4042,7 +4042,7 @@ charges	NNS
 (	(
 mainly	RB
 involving	VBG
-underage	JJ
+underage	NN
 girls	NNS
 forced	VBN
 to	TO
@@ -4058,7 +4058,7 @@ sect	NN
 began	VBD
 to	TO
 use	VB
-secluded	VBN
+secluded	JJ
 compounds	NNS
 ,	,
 state	NN
@@ -4088,7 +4088,7 @@ with	IN
 sexual	JJ
 assault	NN
 of	IN
-underage	JJ
+underage	NN
 girls	NNS
 and	CC
 with	IN
@@ -4532,8 +4532,8 @@ men	NNS
 often	RB
 close	VB
 relatives	NNS
-that	WDT
-enfurates	VBZ
+that	IN
+enfurates	NNS
 me	PRP
 .	.
 
@@ -4645,7 +4645,7 @@ begs	VBZ
 them	PRP
 to	TO
 stop	VB
-intermarrying	VBG
+intermarrying	NN
 but	CC
 they	PRP
 say	VBP
@@ -4685,7 +4685,7 @@ beating	VBG
 his	PRP$
 teen	NN
 daughter	NN
-unconcious	NNP
+unconcious	JJ
 when	WRB
 she	PRP
 ran	VBD
@@ -5679,7 +5679,7 @@ They	PRP
 were	VBD
 death	NN
 metal	NN
-brainwashed	VBD
+brainwashed	VBN
 fans	NNS
 ,	,
 literally	RB
@@ -7295,9 +7295,9 @@ music	NN
 event	NN
 .	.
 
-Lo	NN
+Lo	NNP
 and	CC
-behold	NN
+behold	NNP
 ,	,
 the	DT
 Mormons	NNPS
@@ -8076,7 +8076,7 @@ claims	NNS
 to	TO
 be	VB
 a	DT
-christian	NNP
+christian	JJ
 ,	,
 yet	RB
 many	JJ
@@ -8237,8 +8237,8 @@ they	PRP
 're	VBP
 head	NN
 -	HYPH
-banging	VBG
-to	TO
+banging	NN
+to	IN
 '	POS
 Canibal	NNP
 Corpse	NNP
@@ -9566,7 +9566,7 @@ officially	RB
 said	VBD
 that	IN
 they	PRP
-posses	NNS
+posses	VBZ
 nuclear	JJ
 weapons	NNS
 ,	,
@@ -10356,7 +10356,7 @@ should	MD
 continue	VB
 to	TO
 be	VB
-defanged	JJ
+defanged	VBN
 .	.
 
 But	CC
@@ -12255,7 +12255,7 @@ the	DT
 American	JJ
 public	NN
 gradually	RB
-wearies	NNS
+wearies	VBZ
 of	IN
 the	DT
 Iraq	NNP
@@ -13469,7 +13469,7 @@ Boston	NNP
 
 Bush	NNP
 
-Hiller	NNP
+Hiller	NN
 asked	VBD
 Bush	NNP
 to	TO
@@ -13542,7 +13542,7 @@ Pakistan	NNP
 ?	.
 "	``
 
-Hiller	NNP
+Hiller	NN
 asked	VBD
 ,	,
 inquiring	VBG
@@ -13576,7 +13576,7 @@ asked	VBD
 Bush	NNP
 .	.
 
-Hiller	NNP
+Hiller	NN
 replied	VBD
 :	:
 "	``
@@ -13900,7 +13900,7 @@ to	IN
 power	NN
 as	IN
 a	DT
-warmonger	RB
+warmonger	NNP
 .	.
 
 I	PRP
@@ -19138,7 +19138,7 @@ the	DT
 lookout	NN
 for	IN
 Baathist	NNP
-saboteurs	NNP
+saboteurs	NNS
 and	CC
 willingly	RB
 turn	VB
@@ -21149,8 +21149,8 @@ closer	RBR
 Just	RB
 one	CD
 small	JJ
-commment	VB
--	HYPH
+commment	NN
+-	:
 it	PRP
 's	VBZ
 not	RB
@@ -21330,7 +21330,7 @@ an	DT
 inexpensive	JJ
 way	NN
 of	IN
-influencing	NN
+influencing	VBG
 and	CC
 anticipating	VBG
 the	DT
